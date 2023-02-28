@@ -1,0 +1,37 @@
+---
+canvas: "https://fbarsena.github.io/annonatate/img/derivatives/iiif/TheArrival/canvas/TheArrival-1"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Bird",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Fbarsena",
+                "name": "Fbarsena"
+            },
+            "created": "2023-02-28T18:43:24.847Z",
+            "modified": "2023-02-28T18:43:25.379Z"
+        }
+    ],
+    "target": {
+        "source": "https://fbarsena.github.io/annonatate/img/derivatives/iiif/TheArrival/canvas/TheArrival-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3899.437744140625,2951.292236328125 3899.437744140625,2951.292236328125 3899.437744140625,2951.292236328125 3899.437744140625,2951.292236328125\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://fbarsena.github.io/annonatate/img/derivatives/iiif/TheArrival/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "61054b30-2d07-4446-bd10-5992b22b91af.json",
+    "motivation": "commenting"
+}
